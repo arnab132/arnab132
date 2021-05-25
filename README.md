@@ -6,7 +6,7 @@ My focus in on Machine Learning, Gaming, and AI. I have completed Engineering in
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning AI and Gaming
 - 👯 I’m looking to collaborate on common interest
 - 💬 Brainstorm with me over tech, algorithms, career, and music
 - 📫 How to reach me: Linkedin
