@@ -34,15 +34,5 @@ Here are some ideas to get you started:
 ![Arnab's Language Statistics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arnab132&layout=compact&langs_count=8)
 <br />
 
-</br>
-
-<h2 align='center'><i><a href="https://github.com/arnab132/github-readme-activity-graph">Activity Graph</i></h2>
-<p align="center">
-<a href="https://github.com/arnab132/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=arnab132&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-
-</br>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arnab132.arnab132)
