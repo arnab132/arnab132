@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Arnab !
 
-My focus in on Machine Learning, Gaming, and AI. I have completed Engineering in Computer Science domain. I love to Code.
+My focus in on Machine Learning, Gaming, and AI. I have completed Engineering in Computer Science domain. I love to Code and try to learn new things everyday.
 
 
 Here are some ideas to get you started:
