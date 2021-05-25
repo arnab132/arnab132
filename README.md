@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning AI and Gaming
 - 👯 I’m looking to collaborate on common interest
-- 💬 Brainstorm with me over tech, algorithms, career, and music
+- 💬 Brainstorm with me over tech, algorithms and career
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: Programmer
 - ⚡ Fun fact: Eat Code and Repeat
