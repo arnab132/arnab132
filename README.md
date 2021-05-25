@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on common interest
 - 💬 Brainstorm with me over tech, algorithms, career, and music
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Programmer
 -->
