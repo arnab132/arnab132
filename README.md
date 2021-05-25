@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI and Gaming
 - 👯 I’m looking to collaborate on common interest
 - 💬 Brainstorm with me over tech, algorithms and career
-- 📫 How to reach me: Linkedin
+- 📫 Reach me at: Linkedin
 - 😄 Pronouns: Programmer
 - ⚡ Fun fact: Eat Code and Repeat
 
