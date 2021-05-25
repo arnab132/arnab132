@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Arnab !
 
-Hello, my name is Arnab. I have completed Engineering in Computer Science domain. I love to Code.
+My focus in on Machine Learning. I have completed Engineering in Computer Science domain. I love to Code.
 
 
 Here are some ideas to get you started:
