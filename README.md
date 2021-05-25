@@ -27,6 +27,13 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 
+
+![Arnab's Github Statistics](https://github-readme-stats.vercel.app/api?username=arnab132&show_icons=true&hide_border=true)&nbsp;&nbsp;
+
+
+![Arnab's Language Statistics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arnab132&layout=compact&langs_count=8)
+<br />
+
 </br>
 
 <h2 align='center'><i><a href="https://github.com/arnab132/github-readme-activity-graph">Activity Graph</i></h2>
@@ -37,11 +44,5 @@ Here are some ideas to get you started:
 </p>
 
 </br>
-
-![Arnab's Github Statistics](https://github-readme-stats.vercel.app/api?username=arnab132&show_icons=true&hide_border=true)&nbsp;&nbsp;
-
-
-![Arnab's Language Statistics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arnab132&layout=compact&langs_count=8)
-<br />
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arnab132.arnab132)
