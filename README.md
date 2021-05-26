@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arnab132.arnab132)
