@@ -1,9 +1,9 @@
 
 ### Hi there 👋, This is Arnab !
 
-Hello, this is Arnab Dey. I am interested in Data Science, Gaming and AI. I have completed my Engineering in Computer Science. I love to Code and try to learn new things everyday.
+Hello, this is Arnab Dey. I have completed my Engineering in Computer Science. I love to Code and try to learn new things everyday.
 
-- 🔭 I’m currently working on Data Science and Gaming
+- 🔭 I’m currently looking for a job opportunity.
 - ⚡ Fun fact: Eat Code and Repeat
 
 |Github Statistics|Streaks|Languages|
