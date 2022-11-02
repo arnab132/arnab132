@@ -4,9 +4,25 @@
 Hello, this is Arnab Dey. I love to Code and try to learn new things everyday.
 
 - 🔭 I’m currently working on Machine Learning.
+- 🌱 Ex- Software Engineering(V) Intern at JPMC
+- 👯 I’m looking to collaborate on common interest
 - 💬 Brainstorm with me over tech, algorithms and career
 - 😄 Pronouns: Programmer
 - ⚡ Fun fact: Eat Code and Repeat
+
+
+**Languages and Tools:**
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 
 |Github Statistics|Streaks|Languages|
 |-|-|-|
