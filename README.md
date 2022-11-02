@@ -3,7 +3,9 @@
 
 Hello, this is Arnab Dey. I love to Code and try to learn new things everyday.
 
-- 🔭 I’m currently looking for a job opportunity.
+- 🔭 I’m currently working on Machine Learning.
+- 💬 Brainstorm with me over tech, algorithms and career
+- 😄 Pronouns: Programmer
 - ⚡ Fun fact: Eat Code and Repeat
 
 |Github Statistics|Streaks|Languages|
