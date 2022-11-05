@@ -3,7 +3,8 @@
 
 Hello, this is Arnab Dey. I love to Code and try to learn new things everyday.
 
-- 🚀 I’m currently working on Artificial Intelligence.
+- 🚀 I’m currently working on Artificial Intelligence
+- 👯 Contributor of Design and Code Github Communinity
 - 👩🏻‍🎓 Member of PyContributors Developers Community and EddieHub Community
 - 🌱 Ex- Software Engineering(V) Intern at JPMC
 - 👯 I’m looking to collaborate on common interest
@@ -20,6 +21,7 @@ Hello, this is Arnab Dey. I love to Code and try to learn new things everyday.
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
