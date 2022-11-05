@@ -3,7 +3,7 @@
 
 Hello, this is Arnab Dey. I love to Code and try to learn new things everyday.
 
-- 🔭 I’m currently working on Machine Learning.
+- 🚀 I’m currently working on Machine Learning.
 - 🌱 Ex- Software Engineering(V) Intern at JPMC
 - 👯 I’m looking to collaborate on common interest
 - 💬 Brainstorm with me over tech, algorithms and career
