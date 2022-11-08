@@ -3,8 +3,7 @@
 
 Hello, this is Arnab Dey. I love to Code and try to learn new things everyday.
 
-- 🚀 I’m currently working on Artificial Intelligence
-- 👯 Contributor of Design and Code Github Communinity
+- 🚀 Contributor of Design and Code Communinity
 - 👩🏻‍🎓 Member of PyContributors Developers Community and EddieHub Community
 - 🌱 Ex- Software Engineering(V) Intern at JPMC
 - 👯 I’m looking to collaborate on common interest
